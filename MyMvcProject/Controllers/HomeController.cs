@@ -7,7 +7,7 @@ using System.Web.Mvc;
 namespace MyMvcProject.Controllers
 {
     public class HomeController : Controller
-    {
+    {//Action Result
         public ActionResult Index()
         {
             return View();
