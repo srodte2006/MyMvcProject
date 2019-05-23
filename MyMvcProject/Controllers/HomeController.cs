@@ -15,7 +15,7 @@ namespace MyMvcProject.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Display compunies information.";
 
             return View();
         }
